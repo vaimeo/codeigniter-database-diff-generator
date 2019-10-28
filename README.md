@@ -1,12 +1,12 @@
 codeigniter database diff sql statement generator 
 
-#1 download this repo
-#2 configure basic application config
+# 1 configure basics
 file  application/config/config.php
-#3 configure database config
+# 2 configure database
 file application/config/database.php 
 add source and target database
-#4 open the URL yoururl.com/ci-database-diff-generator/
+# 3 Run 
+open the URL yoururl.com/ci-database-diff-generator/
 
 
 
